@@ -1,0 +1,21 @@
+----------------------------
+Book 1: 
+ISBN : 0198526636
+Title : Nhan va Nguyen
+Author id : 2002
+Author name : Vo Danh Nhan
+Price : 4537823
+----------------------------
+Book 2: 
+ISBN : 3880531013
+Title : Bao Nguyen oi
+Author id : 2002
+Author name : Vo Danh Nhan
+Price : 53426578
+----------------------------
+Book 3: 
+ISBN : 2123456802
+Title : Nhan Nguyen
+Author id : 2007
+Author name : Dao Thien Binh
+Price : 45362

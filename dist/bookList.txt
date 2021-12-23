@@ -1,0 +1,7 @@
+----------------------------
+Book 1: 
+ISBN : 3880531013
+Title : Nhan va Nguyen
+Author id : 2004
+Author name : Tran Nhat Hao
+Price : 38582
